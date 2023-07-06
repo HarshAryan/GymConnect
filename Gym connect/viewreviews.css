@@ -1,0 +1,10 @@
+body {
+    background-image: url("istockphoto-1158282318-612x612.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+.image{
+    width: 100%;
+    position: fixed;
+    }

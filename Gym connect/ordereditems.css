@@ -1,0 +1,10 @@
+body {
+    background-image: url("set-fitness-bottle-two-dumbbells-260nw-1656609493.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+.image{
+    width: 50%;
+    position: fixed;
+    }

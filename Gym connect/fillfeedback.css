@@ -1,0 +1,60 @@
+body {
+    background-image: url("depositphotos_43766109-stock-illustration-vector-retro-torn-paper-feedback.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+.image{
+    width: 100%;
+    position: fixed;
+    }
+.form
+{
+    top:35%;
+    left:38%;
+    position:fixed;
+    color: rgba(245, 245, 220, 0.774);
+    padding: 2%;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(15, 15, 13, 0.699);
+}
+.form-control:focus
+{
+    border-color: beige;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(245, 245, 220, 0.664);
+}
+.inp
+{
+    border-radius: 10px;
+}
+.button{
+    position:absolute;
+    left: 48%;
+    top :60%;
+    color:white ;
+    border-width: 1px;
+    border-style: solid;
+    border: none;
+    /* border-color:blue; */
+    /* background-color: blue; */
+}
+#ss
+{
+	text-decoration: none;
+    color:white;
+    size: 10cm;
+	top:48%;
+	left:40%;
+    background-color: blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-color:blue;
+    transition: 0.6s ease;
+	
+}

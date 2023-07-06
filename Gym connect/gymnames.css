@@ -1,0 +1,10 @@
+body {
+    background-image: url("500016f19a4dd58f23352a56e3291758.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+.image{
+    width: 100%;
+    position: fixed;
+    }
